@@ -6,6 +6,8 @@ It copies the command to install a package from the AUR with your favorite helpe
 1. [Install Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 2. [Install Userscript](https://github.com/lainefox/Copy-install-command-for-AUR-helper/raw/main/copy-install-command-for-aur-helper.user.js)
 
+![screenshot](screenshot.png)
+
 ### AUR helpers supported:
 - ame _(Amethyst)_
 - aura
