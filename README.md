@@ -1,6 +1,7 @@
 # Copy install command for AUR helper
 It does what the name implies.
 It copies the command to install a package from the AUR with your favorite helper at the press of a link...
+It saves your choice btw!
 
 ### Installation 
 1. [Install Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
