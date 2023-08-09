@@ -2,6 +2,7 @@
 // @name        Copy install command for AUR helper
 // @author      Bing AI, and my sleep deprived ass <- laine
 // @version     1.0.1
+// @namespace   https://github.com/lainefox/Copy-install-command-for-AUR-helper
 // @grant       GM.setClipboard
 // @run-at      document-end
 // @include     https://aur.archlinux.org/packages/*
