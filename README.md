@@ -19,7 +19,6 @@ It saves your choice btw!
 - pikaur
 - trizen
 - yay
-and any other you would like by just adding it to the array...
 
 ### Important info
 - I haven't tested it on other script managers other than **Greasemonkey**
